@@ -8,6 +8,7 @@ __pycache__/
 *.so
 
 .idea
+.env
 
 # Distribution / packaging
 .Python
@@ -124,8 +125,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
-.idea
 .venv
 env/
 venv/
